@@ -51,6 +51,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -328,6 +329,16 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Stone_Game_Buttons [Converted]_1: 7605862887979747011
+      Stone_Game_Buttons [Converted]_7: 3377858851877600941
+      Stone_Game_Buttons [Converted]_4: -3268896971478727200
+      Stone_Game_Buttons [Converted]_3: 6347103002542795978
+      Stone_Game_Buttons [Converted]_2: 8213009945383904009
+      Stone_Game_Buttons [Converted]_0: -187475653553663386
+      Stone_Game_Buttons [Converted]_5: -8104297345294902880
+      Stone_Game_Buttons [Converted]_6: 4237844157986798582
+      Stone_Game_Buttons [Converted]_8: -4959494090436878727
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
